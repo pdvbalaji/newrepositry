@@ -1,0 +1,2 @@
+# newrepositry
+learning linux reposityr
